@@ -61,7 +61,7 @@ public class Flower {
 
     void flowerInfo() {
         System.out.println("");
-        System.out.println("Название --> " + flowerName );
+        System.out.println("Название --> " +  flowerName );
         System.out.println("Страна --> " + country );
         System.out.println("Цена за штуку --> " + cost );
         System.out.println("Время жизни --> " + lifeSpan );
